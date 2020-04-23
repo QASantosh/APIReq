@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-04-23T06:38:02 IST" name="Default suite" finished-at="2020-04-23T06:38:15 IST" duration-ms="13706">
+    <groups>
+    </groups>
+    <test started-at="2020-04-23T06:38:02 IST" name="Default test" finished-at="2020-04-23T06:38:15 IST" duration-ms="13706">
+      <class name="assignment1.Scenario3">
+        <test-method is-config="true" signature="init()[pri:0, instance:assignment1.Scenario3@12d4bf7e]" started-at="2020-04-23T06:38:02 IST" name="init" finished-at="2020-04-23T06:38:03 IST" duration-ms="1458" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="deleteUser()[pri:0, instance:assignment1.Scenario3@12d4bf7e]" started-at="2020-04-23T06:38:03 IST" name="deleteUser" finished-at="2020-04-23T06:38:08 IST" duration-ms="5086" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteUser -->
+      </class> <!-- assignment1.Scenario3 -->
+      <class name="assignment1.Scenario2">
+        <test-method is-config="true" signature="init()[pri:0, instance:assignment1.Scenario2@4c1d9d4b]" started-at="2020-04-23T06:38:08 IST" name="init" finished-at="2020-04-23T06:38:08 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="updateUser()[pri:0, instance:assignment1.Scenario2@4c1d9d4b]" started-at="2020-04-23T06:38:08 IST" name="updateUser" finished-at="2020-04-23T06:38:12 IST" duration-ms="3699" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateUser -->
+      </class> <!-- assignment1.Scenario2 -->
+      <class name="assignment1.Scenario1">
+        <test-method is-config="true" signature="init()[pri:0, instance:assignment1.Scenario1@7b227d8d]" started-at="2020-04-23T06:38:12 IST" name="init" finished-at="2020-04-23T06:38:12 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="createNewUser()[pri:0, instance:assignment1.Scenario1@7b227d8d]" started-at="2020-04-23T06:38:12 IST" name="createNewUser" finished-at="2020-04-23T06:38:14 IST" duration-ms="2070" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewUser -->
+        <test-method signature="getUserInformation()[pri:0, instance:assignment1.Scenario1@7b227d8d]" started-at="2020-04-23T06:38:14 IST" name="getUserInformation" finished-at="2020-04-23T06:38:15 IST" duration-ms="1332" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUserInformation -->
+      </class> <!-- assignment1.Scenario1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
